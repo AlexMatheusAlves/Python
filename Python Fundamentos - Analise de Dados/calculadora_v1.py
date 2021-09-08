@@ -26,7 +26,7 @@ x = int(input("Digite o primeiro número: "))
 y = int(input("Digite o segundo número: "))
        
 # Tratar e iniciar as funções de acordo com a opção
-# funções
+# funções - Utilizei Lambda para simplicar o código
 soma = lambda x,y: x+y
 sub = lambda x,y: x-y
 mult = lambda x,y: x*y
