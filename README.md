@@ -1,2 +1,2 @@
 # Python
-Códigos gerados durante do cursos online pela Data Science Academy - 2021
+Calculadora.py = Códigos gerados durante do cursos online pela Data Science Academy - 2021
